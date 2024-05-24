@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\login and register\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21C95081-6517-41D0-BC28-B5439C9E1B4A}|login and register\\login and register.csproj|C:\\Users\\hp\\source\\repos\\login and register\\login and register\\view\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21C95081-6517-41D0-BC28-B5439C9E1B4A}|login and register\\login and register.csproj|solutionrelative:login and register\\view\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C95081-6517-41D0-BC28-B5439C9E1B4A}|login and register\\login and register.csproj|c:\\users\\hp\\source\\repos\\login and register\\login and register\\view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21C95081-6517-41D0-BC28-B5439C9E1B4A}|login and register\\login and register.csproj|solutionrelative:login and register\\view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C95081-6517-41D0-BC28-B5439C9E1B4A}|login and register\\login and register.csproj|C:\\Users\\hp\\source\\repos\\login and register\\login and register\\model\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21C95081-6517-41D0-BC28-B5439C9E1B4A}|login and register\\login and register.csproj|solutionrelative:login and register\\model\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C95081-6517-41D0-BC28-B5439C9E1B4A}|login and register\\login and register.csproj|C:\\Users\\hp\\source\\repos\\login and register\\login and register\\kontoller\\kontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21C95081-6517-41D0-BC28-B5439C9E1B4A}|login and register\\login and register.csproj|solutionrelative:login and register\\kontoller\\kontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C95081-6517-41D0-BC28-B5439C9E1B4A}|login and register\\login and register.csproj|C:\\Users\\hp\\source\\repos\\login and register\\login and register\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21C95081-6517-41D0-BC28-B5439C9E1B4A}|login and register\\login and register.csproj|solutionrelative:login and register\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C95081-6517-41D0-BC28-B5439C9E1B4A}|login and register\\login and register.csproj|C:\\Users\\hp\\source\\repos\\login and register\\login and register\\view\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21C95081-6517-41D0-BC28-B5439C9E1B4A}|login and register\\login and register.csproj|solutionrelative:login and register\\view\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C95081-6517-41D0-BC28-B5439C9E1B4A}|login and register\\login and register.csproj|C:\\Users\\hp\\source\\repos\\login and register\\login and register\\view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21C95081-6517-41D0-BC28-B5439C9E1B4A}|login and register\\login and register.csproj|solutionrelative:login and register\\view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\login and register\\login and register\\Menu.cs",
+              "RelativeDocumentMoniker": "login and register\\Menu.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\login and register\\login and register\\Menu.cs [Design]",
+              "RelativeToolTip": "login and register\\Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:10:21.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\login and register\\login and register\\view\\Register.cs",
+              "RelativeDocumentMoniker": "login and register\\view\\Register.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\login and register\\login and register\\view\\Register.cs",
+              "RelativeToolTip": "login and register\\view\\Register.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAADgvx0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:00:53.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\login and register\\login and register\\view\\Login.cs",
+              "RelativeDocumentMoniker": "login and register\\view\\Login.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\login and register\\login and register\\view\\Login.cs",
+              "RelativeToolTip": "login and register\\view\\Login.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:00:53.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "kontoller.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\login and register\\login and register\\kontoller\\kontoller.cs",
+              "RelativeDocumentMoniker": "login and register\\kontoller\\kontoller.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\login and register\\login and register\\kontoller\\kontoller.cs",
+              "RelativeToolTip": "login and register\\kontoller\\kontoller.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAUwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:00:53.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "model.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\login and register\\login and register\\model\\model.cs",
+              "RelativeDocumentMoniker": "login and register\\model\\model.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\login and register\\login and register\\model\\model.cs",
+              "RelativeToolTip": "login and register\\model\\model.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:00:53.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\login and register\\login and register\\view\\Login.cs",
+              "RelativeDocumentMoniker": "login and register\\view\\Login.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\login and register\\login and register\\view\\Login.cs [Design]",
+              "RelativeToolTip": "login and register\\view\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:00:53.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\login and register\\login and register\\view\\Register.cs",
+              "RelativeDocumentMoniker": "login and register\\view\\Register.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\login and register\\login and register\\view\\Register.cs [Design]",
+              "RelativeToolTip": "login and register\\view\\Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:00:53.893Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
