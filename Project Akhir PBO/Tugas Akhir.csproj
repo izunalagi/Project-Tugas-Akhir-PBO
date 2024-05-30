@@ -95,6 +95,46 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="controller\BuyerControllercs.cs" />
+    <Compile Include="controller\ProdukControllers.cs" />
+    <Compile Include="models\BuyerModel.cs" />
+    <Compile Include="models\ProdukModel.cs" />
+    <Compile Include="views\BuyerCRUD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="views\BuyerCRUD.Designer.cs">
+      <DependentUpon>BuyerCRUD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="views\BuyerUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="views\BuyerUpdate.Designer.cs">
+      <DependentUpon>BuyerUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="views\BuyerUpdate2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="views\BuyerUpdate2.Designer.cs">
+      <DependentUpon>BuyerUpdate2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="views\ProdukCRUD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="views\ProdukCRUD.Designer.cs">
+      <DependentUpon>ProdukCRUD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="views\Transaksi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="views\Transaksi.Designer.cs">
+      <DependentUpon>Transaksi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="views\Buyer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="views\Buyer.Designer.cs">
+      <DependentUpon>Buyer.cs</DependentUpon>
+    </Compile>
     <Compile Include="controller\controller.cs" />
     <Compile Include="models\models.cs" />
     <Compile Include="views\login.cs">
@@ -111,12 +151,36 @@
     <Compile Include="views\menu.Designer.cs">
       <DependentUpon>menu.cs</DependentUpon>
     </Compile>
+    <Compile Include="views\Produk.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="views\Produk.Designer.cs">
+      <DependentUpon>Produk.cs</DependentUpon>
+    </Compile>
     <Compile Include="views\register.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="views\register.Designer.cs">
       <DependentUpon>register.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="views\BuyerCRUD.resx">
+      <DependentUpon>BuyerCRUD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\BuyerUpdate.resx">
+      <DependentUpon>BuyerUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\BuyerUpdate2.resx">
+      <DependentUpon>BuyerUpdate2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\ProdukCRUD.resx">
+      <DependentUpon>ProdukCRUD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\Transaksi.resx">
+      <DependentUpon>Transaksi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\Buyer.resx">
+      <DependentUpon>Buyer.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="views\login.resx">
       <DependentUpon>login.cs</DependentUpon>
     </EmbeddedResource>
@@ -131,6 +195,9 @@
     </Compile>
     <EmbeddedResource Include="views\menu.resx">
       <DependentUpon>menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\Produk.resx">
+      <DependentUpon>Produk.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="views\register.resx">
       <DependentUpon>register.cs</DependentUpon>

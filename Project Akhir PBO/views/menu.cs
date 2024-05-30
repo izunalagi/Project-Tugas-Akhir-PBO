@@ -26,5 +26,20 @@ namespace Project_Akhir_PBO.views
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            produk1.BringToFront();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            buyer1.BringToFront();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            transaksi1.BringToFront();
+        }
     }
 }
