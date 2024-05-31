@@ -1,0 +1,190 @@
+C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\bin\Debug\Project Akhir PBO.exe.config
+C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\bin\Debug\Project Akhir PBO.exe
+C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\bin\Debug\Project Akhir PBO.pdb
+C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\obj\Debug\Project Akhir PBO.csproj.AssemblyReference.cache
+C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\obj\Debug\Project_Akhir_PBO.Login.resources
+C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\obj\Debug\Project_Akhir_PBO.Properties.Resources.resources
+C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\obj\Debug\Project Akhir PBO.csproj.GenerateResource.cache
+C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\obj\Debug\Project Akhir PBO.csproj.CoreCompileInputs.cache
+C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\obj\Debug\Project Akhir PBO.exe
+C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\obj\Debug\Project Akhir PBO.pdb
+C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\bin\Debug\Npgsql.dll
+C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\bin\Debug\System.Buffers.dll
+C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\bin\Debug\System.Collections.Immutable.dll
+C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\bin\Debug\System.Memory.dll
+C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\bin\Debug\System.Text.Json.dll
+C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\bin\Debug\System.Threading.Channels.dll
+C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\bin\Debug\System.ValueTuple.dll
+C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\bin\Debug\Npgsql.xml
+C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\bin\Debug\System.Buffers.xml
+C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\bin\Debug\System.Collections.Immutable.xml
+C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\bin\Debug\System.Memory.xml
+C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\bin\Debug\System.Text.Json.xml
+C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\bin\Debug\System.Threading.Channels.xml
+C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\bin\Debug\System.ValueTuple.xml
+C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\obj\Debug\Project_Akhir_PBO.views.Register.resources
+C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\obj\Debug\Project Akhir PBO.csproj.CopyComplete
+C:\Users\buana\Desktop\PBO NIH BOS\Project Akhir PBO\Project Akhir PBO\obj\Debug\Project_Akhir_PBO.views.Menu.resources
+D:\lemiting\Project Akhir PBO\Project Akhir PBO\bin\Debug\Project Akhir PBO.exe.config
+D:\lemiting\Project Akhir PBO\Project Akhir PBO\bin\Debug\Project Akhir PBO.exe
+D:\lemiting\Project Akhir PBO\Project Akhir PBO\bin\Debug\Project Akhir PBO.pdb
+D:\lemiting\Project Akhir PBO\Project Akhir PBO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\lemiting\Project Akhir PBO\Project Akhir PBO\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\lemiting\Project Akhir PBO\Project Akhir PBO\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\lemiting\Project Akhir PBO\Project Akhir PBO\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\lemiting\Project Akhir PBO\Project Akhir PBO\bin\Debug\Npgsql.dll
+D:\lemiting\Project Akhir PBO\Project Akhir PBO\bin\Debug\System.Buffers.dll
+D:\lemiting\Project Akhir PBO\Project Akhir PBO\bin\Debug\System.Collections.Immutable.dll
+D:\lemiting\Project Akhir PBO\Project Akhir PBO\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\lemiting\Project Akhir PBO\Project Akhir PBO\bin\Debug\System.Memory.dll
+D:\lemiting\Project Akhir PBO\Project Akhir PBO\bin\Debug\System.Numerics.Vectors.dll
+D:\lemiting\Project Akhir PBO\Project Akhir PBO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\lemiting\Project Akhir PBO\Project Akhir PBO\bin\Debug\System.Text.Encodings.Web.dll
+D:\lemiting\Project Akhir PBO\Project Akhir PBO\bin\Debug\System.Text.Json.dll
+D:\lemiting\Project Akhir PBO\Project Akhir PBO\bin\Debug\System.Threading.Channels.dll
+D:\lemiting\Project Akhir PBO\Project Akhir PBO\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\lemiting\Project Akhir PBO\Project Akhir PBO\bin\Debug\System.ValueTuple.dll
+D:\lemiting\Project Akhir PBO\Project Akhir PBO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\lemiting\Project Akhir PBO\Project Akhir PBO\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\lemiting\Project Akhir PBO\Project Akhir PBO\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\lemiting\Project Akhir PBO\Project Akhir PBO\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\lemiting\Project Akhir PBO\Project Akhir PBO\bin\Debug\Npgsql.xml
+D:\lemiting\Project Akhir PBO\Project Akhir PBO\bin\Debug\System.Buffers.xml
+D:\lemiting\Project Akhir PBO\Project Akhir PBO\bin\Debug\System.Collections.Immutable.xml
+D:\lemiting\Project Akhir PBO\Project Akhir PBO\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\lemiting\Project Akhir PBO\Project Akhir PBO\bin\Debug\System.Memory.xml
+D:\lemiting\Project Akhir PBO\Project Akhir PBO\bin\Debug\System.Numerics.Vectors.xml
+D:\lemiting\Project Akhir PBO\Project Akhir PBO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\lemiting\Project Akhir PBO\Project Akhir PBO\bin\Debug\System.Text.Encodings.Web.xml
+D:\lemiting\Project Akhir PBO\Project Akhir PBO\bin\Debug\System.Text.Json.xml
+D:\lemiting\Project Akhir PBO\Project Akhir PBO\bin\Debug\System.Threading.Channels.xml
+D:\lemiting\Project Akhir PBO\Project Akhir PBO\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\lemiting\Project Akhir PBO\Project Akhir PBO\bin\Debug\System.ValueTuple.xml
+D:\lemiting\Project Akhir PBO\Project Akhir PBO\obj\Debug\Project Akhir PBO.csproj.AssemblyReference.cache
+D:\lemiting\Project Akhir PBO\Project Akhir PBO\obj\Debug\Project_Akhir_PBO.login.resources
+D:\lemiting\Project Akhir PBO\Project Akhir PBO\obj\Debug\Project_Akhir_PBO.Properties.Resources.resources
+D:\lemiting\Project Akhir PBO\Project Akhir PBO\obj\Debug\Project_Akhir_PBO.views.menu.resources
+D:\lemiting\Project Akhir PBO\Project Akhir PBO\obj\Debug\Project_Akhir_PBO.views.Produk.resources
+D:\lemiting\Project Akhir PBO\Project Akhir PBO\obj\Debug\Project_Akhir_PBO.views.register.resources
+D:\lemiting\Project Akhir PBO\Project Akhir PBO\obj\Debug\Project Akhir PBO.csproj.GenerateResource.cache
+D:\lemiting\Project Akhir PBO\Project Akhir PBO\obj\Debug\Project Akhir PBO.csproj.CoreCompileInputs.cache
+D:\lemiting\Project Akhir PBO\Project Akhir PBO\obj\Debug\Project .FEFC6233.Up2Date
+D:\lemiting\Project Akhir PBO\Project Akhir PBO\obj\Debug\Project Akhir PBO.exe
+D:\lemiting\Project Akhir PBO\Project Akhir PBO\obj\Debug\Project Akhir PBO.pdb
+D:\lemiting\Project Akhir PBO\Project Akhir PBO\obj\Debug\Project_Akhir_PBO.Buyer.resources
+D:\lemiting\Project Akhir PBO\Project Akhir PBO\obj\Debug\Project_Akhir_PBO.Transaksi.resources
+C:\Users\IZUNA\Downloads\lemiting123\lemiting123\Project Akhir PBO\bin\Debug\Project Akhir PBO.exe.config
+C:\Users\IZUNA\Downloads\lemiting123\lemiting123\Project Akhir PBO\bin\Debug\Project Akhir PBO.exe
+C:\Users\IZUNA\Downloads\lemiting123\lemiting123\Project Akhir PBO\bin\Debug\Project Akhir PBO.pdb
+C:\Users\IZUNA\Downloads\lemiting123\lemiting123\Project Akhir PBO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\IZUNA\Downloads\lemiting123\lemiting123\Project Akhir PBO\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\IZUNA\Downloads\lemiting123\lemiting123\Project Akhir PBO\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\IZUNA\Downloads\lemiting123\lemiting123\Project Akhir PBO\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\IZUNA\Downloads\lemiting123\lemiting123\Project Akhir PBO\bin\Debug\Npgsql.dll
+C:\Users\IZUNA\Downloads\lemiting123\lemiting123\Project Akhir PBO\bin\Debug\System.Buffers.dll
+C:\Users\IZUNA\Downloads\lemiting123\lemiting123\Project Akhir PBO\bin\Debug\System.Collections.Immutable.dll
+C:\Users\IZUNA\Downloads\lemiting123\lemiting123\Project Akhir PBO\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\IZUNA\Downloads\lemiting123\lemiting123\Project Akhir PBO\bin\Debug\System.Memory.dll
+C:\Users\IZUNA\Downloads\lemiting123\lemiting123\Project Akhir PBO\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\IZUNA\Downloads\lemiting123\lemiting123\Project Akhir PBO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\IZUNA\Downloads\lemiting123\lemiting123\Project Akhir PBO\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\IZUNA\Downloads\lemiting123\lemiting123\Project Akhir PBO\bin\Debug\System.Text.Json.dll
+C:\Users\IZUNA\Downloads\lemiting123\lemiting123\Project Akhir PBO\bin\Debug\System.Threading.Channels.dll
+C:\Users\IZUNA\Downloads\lemiting123\lemiting123\Project Akhir PBO\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\IZUNA\Downloads\lemiting123\lemiting123\Project Akhir PBO\bin\Debug\System.ValueTuple.dll
+C:\Users\IZUNA\Downloads\lemiting123\lemiting123\Project Akhir PBO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\IZUNA\Downloads\lemiting123\lemiting123\Project Akhir PBO\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\IZUNA\Downloads\lemiting123\lemiting123\Project Akhir PBO\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\IZUNA\Downloads\lemiting123\lemiting123\Project Akhir PBO\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\IZUNA\Downloads\lemiting123\lemiting123\Project Akhir PBO\bin\Debug\Npgsql.xml
+C:\Users\IZUNA\Downloads\lemiting123\lemiting123\Project Akhir PBO\bin\Debug\System.Buffers.xml
+C:\Users\IZUNA\Downloads\lemiting123\lemiting123\Project Akhir PBO\bin\Debug\System.Collections.Immutable.xml
+C:\Users\IZUNA\Downloads\lemiting123\lemiting123\Project Akhir PBO\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\IZUNA\Downloads\lemiting123\lemiting123\Project Akhir PBO\bin\Debug\System.Memory.xml
+C:\Users\IZUNA\Downloads\lemiting123\lemiting123\Project Akhir PBO\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\IZUNA\Downloads\lemiting123\lemiting123\Project Akhir PBO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\IZUNA\Downloads\lemiting123\lemiting123\Project Akhir PBO\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\IZUNA\Downloads\lemiting123\lemiting123\Project Akhir PBO\bin\Debug\System.Text.Json.xml
+C:\Users\IZUNA\Downloads\lemiting123\lemiting123\Project Akhir PBO\bin\Debug\System.Threading.Channels.xml
+C:\Users\IZUNA\Downloads\lemiting123\lemiting123\Project Akhir PBO\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\IZUNA\Downloads\lemiting123\lemiting123\Project Akhir PBO\bin\Debug\System.ValueTuple.xml
+C:\Users\IZUNA\Downloads\lemiting123\lemiting123\Project Akhir PBO\obj\Debug\Project Akhir PBO.csproj.AssemblyReference.cache
+C:\Users\IZUNA\Downloads\lemiting123\lemiting123\Project Akhir PBO\obj\Debug\Project_Akhir_PBO.Transaksi.resources
+C:\Users\IZUNA\Downloads\lemiting123\lemiting123\Project Akhir PBO\obj\Debug\Project_Akhir_PBO.Buyer.resources
+C:\Users\IZUNA\Downloads\lemiting123\lemiting123\Project Akhir PBO\obj\Debug\Project_Akhir_PBO.login.resources
+C:\Users\IZUNA\Downloads\lemiting123\lemiting123\Project Akhir PBO\obj\Debug\Project_Akhir_PBO.Properties.Resources.resources
+C:\Users\IZUNA\Downloads\lemiting123\lemiting123\Project Akhir PBO\obj\Debug\Project_Akhir_PBO.views.menu.resources
+C:\Users\IZUNA\Downloads\lemiting123\lemiting123\Project Akhir PBO\obj\Debug\Project_Akhir_PBO.views.Produk.resources
+C:\Users\IZUNA\Downloads\lemiting123\lemiting123\Project Akhir PBO\obj\Debug\Project_Akhir_PBO.views.register.resources
+C:\Users\IZUNA\Downloads\lemiting123\lemiting123\Project Akhir PBO\obj\Debug\Project Akhir PBO.csproj.GenerateResource.cache
+C:\Users\IZUNA\Downloads\lemiting123\lemiting123\Project Akhir PBO\obj\Debug\Project Akhir PBO.csproj.CoreCompileInputs.cache
+C:\Users\IZUNA\Downloads\lemiting123\lemiting123\Project Akhir PBO\obj\Debug\Project .FEFC6233.Up2Date
+C:\Users\IZUNA\Downloads\lemiting123\lemiting123\Project Akhir PBO\obj\Debug\Project Akhir PBO.exe
+C:\Users\IZUNA\Downloads\lemiting123\lemiting123\Project Akhir PBO\obj\Debug\Project Akhir PBO.pdb
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\obj\Debug\Project Akhir PBO.csproj.AssemblyReference.cache
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\obj\Debug\Project_Akhir_PBO.Transaksi.resources
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\obj\Debug\Project_Akhir_PBO.Buyer.resources
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\obj\Debug\Project_Akhir_PBO.login.resources
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\obj\Debug\Project_Akhir_PBO.Properties.Resources.resources
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\obj\Debug\Project_Akhir_PBO.views.menu.resources
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\obj\Debug\Project_Akhir_PBO.views.Produk.resources
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\obj\Debug\Project_Akhir_PBO.views.register.resources
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\obj\Debug\Project Akhir PBO.csproj.GenerateResource.cache
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\obj\Debug\Project Akhir PBO.csproj.CoreCompileInputs.cache
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\obj\Debug\Project Akhir PBO.exe
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\obj\Debug\Project Akhir PBO.pdb
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\bin\Debug\Project Akhir PBO.exe.config
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\bin\Debug\Project Akhir PBO.exe
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\bin\Debug\Project Akhir PBO.pdb
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\bin\Debug\Npgsql.dll
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\bin\Debug\System.Buffers.dll
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\bin\Debug\System.Collections.Immutable.dll
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\bin\Debug\System.Memory.dll
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\bin\Debug\System.Numerics.Vectors.dll
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\bin\Debug\System.Text.Encodings.Web.dll
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\bin\Debug\System.Text.Json.dll
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\bin\Debug\System.Threading.Channels.dll
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\bin\Debug\System.ValueTuple.dll
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\bin\Debug\Npgsql.xml
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\bin\Debug\System.Buffers.xml
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\bin\Debug\System.Collections.Immutable.xml
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\bin\Debug\System.Memory.xml
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\bin\Debug\System.Numerics.Vectors.xml
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\bin\Debug\System.Text.Encodings.Web.xml
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\bin\Debug\System.Text.Json.xml
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\bin\Debug\System.Threading.Channels.xml
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\bin\Debug\System.ValueTuple.xml
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\obj\Debug\Project .FEFC6233.Up2Date
+D:\PROJECT PBO\Thor1\Thor1\Project Akhir PBO\obj\Debug\Project_Akhir_PBO.views.BuyerCRUD.resources
